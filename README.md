@@ -22,6 +22,7 @@ You will also be competing!  Rules of engagement:
  - You MAY NOT work as a team
 
 Assignment
+
 The setup (mandatory -- i.e. **nothing else is graded without this**). There are no limitations to using outside sources on the setup phase.  Complete this as soon as possible so we can start tracking the scoreboard: 
  - [ ] Sign up for WeChall, connected to overthewire.org . Guide is here: https://overthewire.org/information/wechall.html
  - [ ] Add overthewire.org as a linked site in wechall here https://www.wechall.net/linked_sites
@@ -50,7 +51,7 @@ EXTRA CREDIT: Win Scenario based on total SCORE on wechall.  It doesn't matter w
 
 21-30: +3 points on final exam
 
-31-37: +0 points on final exam
+31+: +2 points on final exam
 
 Students:
 |Initials|Overthewire Name|WeChall name|
