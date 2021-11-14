@@ -57,3 +57,4 @@ Students:
 |Initials|Overthewire Name|WeChall name|
 |--|--|--|
 |CT|ethicalprof|ethicalprof|
+|BA|tyrioslol|tyrioslol|
