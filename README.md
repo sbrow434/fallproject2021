@@ -67,3 +67,5 @@ Students:
 |AM|Depore|Depore|
 |BJ|bjone314|bjone314|
 |EA|Eayimadu|Eayimadu|
+|JN|jerrytatenance|jerrytatenance|
+|NA|nalexa|nalexa|
