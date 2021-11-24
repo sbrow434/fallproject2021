@@ -1,3 +1,7 @@
+
+
+
+
 # Welcome to Your Ethical Hacking Fall 2021 Project!
 
 Your initial project was causing a lot of frustration so I've come up with an alterrnative.  Our goal is to
@@ -62,5 +66,6 @@ Students:
 |TW|TS_ALEX|TS_ALEX|
 |AM|Depore|Depore|
 |BJ|bjone314|bjone314|
+|EA|Eayimadu|Eayimadu|
 |JN|jerrytatenance|jerrytatenance|
 |NA|nalexa|nalexa|
